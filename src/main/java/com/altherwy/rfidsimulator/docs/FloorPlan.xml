@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Room height="50" width="90">
+<wall height="40" width="20" x = "40" y= "30">
+First Wall
+</wall>
+<wall height="50" width="30">
+Second Wall
+</wall>
+</Room>
